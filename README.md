@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi, I’m @Lamarimohamed<br>👀 I’m interested in web development and UI/UX<br>🌱 I’m currently learning Flutter and how to be Full stack developer
+# 👋 Hi, I’m @Lamarimohamed:
+<br>👀 I’m interested in web development and UI/UX<br>🌱 I’m currently learning Flutter and how to be Full stack developer
 
 
 # 💻 Tech Stack:
